@@ -1,25 +1,115 @@
+ <style>
+
+
+table {
+   background-color:#f6f6f6; color:#132D60;
+   font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+td {
+
+   background-color:#ffffff; color:#132D60;
+      font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+tr {
+
+   background-color:#ffffff; color:#132D60;
+      font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.test {
+	border: 0px;
+  font-size: 50px;    // change the font-size to 14px
+  font-weight: bold;
+     font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.subtit {
+	border: 0px;
+	color:#132D60;
+  font-size: 15px;    // change the font-size to 14px
+  font-weight: bold;
+     font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.note {
+	border: 0px;
+  font-size: 15px;    // change the font-size to 14px
+  font-weight: bold;
+     font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.total {
+	  
+	  font-size: 15px;
+	    font-weight: bold;
+  width: 300;
+   background-color:#f6f6f6;
+   color:#132D60;
+     font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+.gmap {
+	  
+	  font-size: 15px;
+	    font-weight: bold;
+  width: 30;
+   background-color:#f6f6f6;
+   color:#132D60;
+     font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+.totaltext {
+	  
+	  font-size: 15px;
+	    font-weight: bold;
+  width: 300;
+   background-color:#f6f6f6;
+   color:#132D60;
+     font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+</style>
+
+
+
 <br>
 <br>
 <br>
 <hr>
-<b>Alan Hall</b>
+ 
+ <tr><td><b>WE ARE MOVING</b> - From Monday 21st March, Forwessun's new address will be: </tr></td><br><br>
+ <tr><td><div class='subtit'>The Printworks, <br>
+ Woodend Industrial Estate, <br>
+ Woodend Avenue, <br>
+ Speke, <br>
+ L24 9NB <br></div><br>
+  
+ <tr>  <div class='gmap'><td> <a href="https://goo.gl/maps/692mzEWvhQLUjkam8">
+	<img id="Forwessun" src="https://lh3.googleusercontent.com/9tLfTpdILdHDAvGrRm7GdbjWdpbWSMOa0csoQ8pUba9tLP8tq7M4Quks1xuMQAVnAxVfryiDXRzZ-KDnkPv8Sm4g_YFom1ltQHjQ6Q" alt="http://www.forwessun.com" width="100%" align="left">
+</div></a>
+ </tr></td><br><br><br>
+Please update your records with our new address. 
+ </tr></td>
+ <br>
+  <br>
+  <br>
+<hr>
+<tr>
+ <td>Alan Hall</b>
  - <i>Test Engineer</i><br>
- <b>Forwessun</b><br>
+ <b>Forwessun</b><br></td></tr>
  <div><style type='text/css'>body{font-family:calibri;font-size:14px;}table{padding:0px;margin:0px;border:0px;border-spacing:0px;font-size:14px;color:black;}</style>
  <table>
  <tbody>
+
  <tr>
- <td>17 Hurricane Court<br>
- International Business Park<br>
- Liverpool<br>
- L24 8RL<br>
- <BR>
+ <td>
  <table>
  <tr><td><B>Office</B> </td><td>:</td><td> +44(0)151 220 5558</td></tr>
  <tr><td><B>Email  </B></td><td>:</td><td>
  <a href='mailto:alan.hall@forwessun.com'>alan.hall@forwessun.com</a></td></tr>
  <tr><td><B>Website</B></td><td>:</td><td><a href='http://www.forwessun.com/'>www.forwessun.com</a></td></tr>
- </td></table>
- <td><a href="http://www.forwessun.com">
-	<img width="100px" height="100px" id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yelblue100px.png" alt="http://www.forwessun.com" align="left">
+ </table></td>
+ <td width="100" ><a href="http://www.forwessun.com">
+	<img id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yellowbluecirnew.png" alt="http://www.forwessun.com" width="100%" align="left">
 </a></td></tr></tbody></table></div>
