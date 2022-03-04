@@ -40,21 +40,10 @@ tr {
      font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
-.total {
-	  
-	  font-size: 15px;
-	    font-weight: bold;
-  width: 300;
-   background-color:#f6f6f6;
-   color:#132D60;
-     font-family: Poppins, Arial, Helvetica, sans-serif;
-}
-
 .gmap {
 	  
 	  font-size: 15px;
 	    font-weight: bold;
-  width: 30;
    background-color:#f6f6f6;
    color:#132D60;
      font-family: Poppins, Arial, Helvetica, sans-serif;
@@ -85,7 +74,7 @@ tr {
  L24 9NB <br></div><br>
   
  <tr>  <div class='gmap'><td> <a href="https://goo.gl/maps/692mzEWvhQLUjkam8">
-	<img id="Forwessun" src="https://lh3.googleusercontent.com/9tLfTpdILdHDAvGrRm7GdbjWdpbWSMOa0csoQ8pUba9tLP8tq7M4Quks1xuMQAVnAxVfryiDXRzZ-KDnkPv8Sm4g_YFom1ltQHjQ6Q" alt="http://www.forwessun.com" width="100%" align="left">
+	<img id="Forwessun" src="https://lh3.googleusercontent.com/koD9VrPmI74MU5y3RaJSdxFDFUQl6S4aQnNTmpl_nnWyiWYi8lu4MVKhvBXBoFyQ1SFFouDCrVsr9TvUuXlrnA-WVnEz5YtR5b_baLBmiCjJS2Epy4tC9GERHoe_DhgJTR4YsSgaGg=s30-p-k" alt="Map" align="left">
 </div></a>
  </tr></td><br><br><br>
 Please update your records with our new address. 
