@@ -2,6 +2,7 @@
 
 
 table {
+table-layout: fixed;
    background-color:#f6f6f6; color:#132D60;
    font-family: Poppins, Arial, Helvetica, sans-serif;
 }
