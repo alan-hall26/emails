@@ -103,9 +103,8 @@ align:left;
  </table>
  <table style="float: left">
  <div class='logo'><td ><a href="http://www.forwessun.com">
-	<img id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yelblue100px.png" alt="http://www.forwessun.com" align="left">
+	<img id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yelblue100px.png" align="left">
 </a></td></table></div></tr>
- </tr></tbody></table></div>
+ </tr></td></tbody></table></div>
 <br>
 <br>
-end
