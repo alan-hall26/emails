@@ -8,13 +8,13 @@ table-layout: fixed;
 }
 
 td {
-
+border: 1px;
    background-color:#ffffff; color:#132D60;
       font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
 tr {
-
+border: 1px;
    background-color:#ffffff; color:#132D60;
       font-family: Poppins, Arial, Helvetica, sans-serif;
 }
@@ -60,7 +60,7 @@ tr {
 }
 .logo {
 	  
-align:left;
+align:right;
 }
 </style>
 
@@ -72,15 +72,13 @@ align:left;
 <hr>
  
 <tr>
- <td><b>Alan Hall</b>
+<div class='subtit'><td><b>Alan Hall</b>
  - <i>Test Engineer</i><br>
- </td></tr>
- <div><style type='text/css'>body{font-family:calibri;font-size:14px;}table{padding:0px;margin:0px;border:0px;border-spacing:0px;font-size:14px;color:black;}</style>
+ </td></tr></div>
  <table>
  <tbody>
+<br>
 
- <tr>
- <td>
  
  <tr><td><div class='subtit'>
  <b>Forwessun</b>, <br>
@@ -89,23 +87,48 @@ align:left;
  Woodend Avenue, <br>
  Speke, <br>
  L24 9NB </div>
-  
+  </tr>
  <tr>  <div class='gmap'><td> <a href="https://goo.gl/maps/692mzEWvhQLUjkam8">
 	<img id="Forwessun" src="https://lh3.googleusercontent.com/koD9VrPmI74MU5y3RaJSdxFDFUQl6S4aQnNTmpl_nnWyiWYi8lu4MVKhvBXBoFyQ1SFFouDCrVsr9TvUuXlrnA-WVnEz5YtR5b_baLBmiCjJS2Epy4tC9GERHoe_DhgJTR4YsSgaGg=s30-p-k" alt="Map" align="left">
 </div></a>
  </tr></td>
- <table style="float: left">
- <tr><td><B>Office</B> </td><td>:</td><td> +44(0)151 220 5558</td></tr>
- <tr><td><B>Email  </B></td><td>:</td><td>
- <a href='mailto:alan.hall@forwessun.com'>alan.hall@forwessun.com</a></td></tr>
- <tr><td><B>Website</B></td><td>:</td><td><a href='http://www.forwessun.com/'>www.forwessun.com</a></td>
- </td></tr>
- </table>
- <table style="float: left">
- <div class='logo'><td ><a href="http://www.forwessun.com">
+
+ 
+ 
+ <table >
+
+
+
+<tr>
+ <td><B>Office</B> </td>
+ <td>:</td>
+ <td> +44(0)151 220 5558</td>
+ 
+
+<td rowspan="3" >
+ <div class='logo'>
+<a href="http://www.forwessun.com">
 	<img id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yelblue100px.png" align="left">
-</a></td></table></div></tr>
- </tr></td></tbody></table></div><p><p><br>
-<table style="float: right"><TD>test4</td></table>
-<br>
-<br>
+</a>
+
+</td>
+</div>
+ </tr>
+ 
+ <tr>
+ <td><B>Email  </B></td>
+ <td>:</td>
+ <td><a href='mailto:alan.hall@forwessun.com'>alan.hall@forwessun.com</a></td>
+ </tr>
+ 
+ <tr>
+ <td><B>Website</B></td><td>:</td>
+ <td><a href='http://www.forwessun.com/'>www.forwessun.com</a></td>
+ </tr>
+
+</table>
+</tbody>
+</table>
+<p>
+<table style="float: left"><TD>-</td></table>
+
