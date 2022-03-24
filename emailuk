@@ -3,39 +3,27 @@
 
 table {
 table-layout: fixed;
-   background-color:#f6f6f6; color:#132D60;
+border-collapse: collapse
+   background-color:#f6f6f6; 
    font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
 td {
-border: 1px;
+
    background-color:#ffffff; color:#132D60;
       font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
 tr {
-border: 1px;
+
    background-color:#ffffff; color:#132D60;
       font-family: Poppins, Arial, Helvetica, sans-serif;
 }
 
-.test {
-	border: 0px;
-  font-size: 50px;    // change the font-size to 14px
-  font-weight: bold;
-     font-family: Poppins, Arial, Helvetica, sans-serif;
-}
 
 .subtit {
-	border: 0px;
-	color:#132D60;
-  font-size: 15px;    // change the font-size to 14px
-  font-weight: bold;
-     font-family: Poppins, Arial, Helvetica, sans-serif;
-}
 
-.note {
-	border: 0px;
+	color:#132D60;
   font-size: 15px;    // change the font-size to 14px
   font-weight: bold;
      font-family: Poppins, Arial, Helvetica, sans-serif;
@@ -49,15 +37,7 @@ border: 1px;
    color:#132D60;
      font-family: Poppins, Arial, Helvetica, sans-serif;
 }
-.totaltext {
-	  
-	  font-size: 15px;
-	    font-weight: bold;
-  width: 300;
-   background-color:#f6f6f6;
-   color:#132D60;
-     font-family: Poppins, Arial, Helvetica, sans-serif;
-}
+
 .logo {
 	  
 align:right;
@@ -68,13 +48,14 @@ align:right;
 
 <br>
 <br>
-<br>
 <hr>
  
 <tr>
 <div class='subtit'><td><b>Alan Hall</b>
  - <i>Test Engineer</i><br>
  </td></tr></div>
+ 
+ 
  <table>
  <tbody>
 <br>
