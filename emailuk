@@ -2,6 +2,7 @@
 
 
 table {
+font-size: 12px;
 table-layout: fixed;
 border-collapse: collapse
    background-color:#f6f6f6; 
@@ -24,7 +25,7 @@ tr {
 .subtit {
 
 	color:#132D60;
-  font-size: 15px;    // change the font-size to 14px
+  font-size: 12px;    // change the font-size to 14px
   font-weight: bold;
      font-family: Poppins, Arial, Helvetica, sans-serif;
 }
@@ -79,17 +80,17 @@ align:right;
  <table >
 
 
-
+<div class='subtit'>
 <tr>
  <td><B>Office</B> </td>
  <td>:</td>
  <td> +44(0)151 220 5558</td>
- 
+ </div>
 
 <td rowspan="3" >
  <div class='logo'>
 <a href="http://www.forwessun.com">
-	<img id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yelblue100px.png" align="left">
+	<img id="Forwessun" src="https://forwessun.net/wp-content/uploads/2021/06/yelblue100px.png" width="70%" align="left">
 </a>
 
 </td>
